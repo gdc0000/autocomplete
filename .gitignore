@@ -18,4 +18,4 @@ build/
 *.log
 .env
 
-prompt-gui/.git
+# prompt-gui/.git
