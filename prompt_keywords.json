@@ -1,0 +1,6 @@
+{
+  "actions": ["write", "explain", "summarize", "generate", "help"],
+  "objects": ["email", "message", "task", "answer", "plan", "guide"],
+  "qualities": ["polite", "detailed", "concise", "formal"],
+  "others": ["assistant", "expert", "mail", "letter"]
+}

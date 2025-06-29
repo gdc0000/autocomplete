@@ -1,0 +1,21 @@
+# Ignora l'ambiente virtuale
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor config
+.vscode/
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# Sistema
+.DS_Store
+*.log
+.env
+
+prompt-gui/.git
